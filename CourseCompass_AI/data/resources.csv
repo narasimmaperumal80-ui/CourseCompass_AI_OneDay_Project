@@ -1,0 +1,41 @@
+course_name,resource_type,title,url,level,suggested_hours
+Machine Learning,Video,Machine Learning Specialization,https://www.coursera.org/specializations/machine-learning,Beginner,2
+Machine Learning,Documentation,Scikit-learn User Guide,https://scikit-learn.org/stable/user_guide.html,Beginner,2
+Machine Learning,Practice,Kaggle Learn Machine Learning,https://www.kaggle.com/learn/intro-to-machine-learning,Beginner,2
+Machine Learning,Project,Student Performance Predictor,https://scikit-learn.org/stable/auto_examples/index.html,Beginner,4
+Data Analytics,Video,Google Data Analytics,https://www.coursera.org/professional-certificates/google-data-analytics,Beginner,2
+Data Analytics,Tutorial,Kaggle Learn Data Visualization,https://www.kaggle.com/learn/data-visualization,Beginner,2
+Data Analytics,Documentation,Pandas Documentation,https://pandas.pydata.org/docs/,Beginner,2
+Data Analytics,Project,Student Marks Dashboard,https://plotly.com/python/,Beginner,4
+Cloud Computing,Video,AWS Cloud Practitioner Essentials,https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/,Beginner,2
+Cloud Computing,Documentation,AWS Documentation,https://docs.aws.amazon.com/,Beginner,2
+Cloud Computing,Practice,AWS Skill Builder,https://skillbuilder.aws/,Beginner,2
+Cloud Computing,Project,Deploy a Simple Web App,https://docs.streamlit.io/deploy,Beginner,4
+Cybersecurity,Video,Cybersecurity Fundamentals,https://www.coursera.org/learn/cyber-security-domain,Beginner,2
+Cybersecurity,Tutorial,OWASP Top 10,https://owasp.org/www-project-top-ten/,Beginner,2
+Cybersecurity,Documentation,CISA Cybersecurity Resources,https://www.cisa.gov/resources-tools,Beginner,2
+Cybersecurity,Project,Secure Login Demo,https://owasp.org/,Beginner,4
+Web Development,Video,MDN Learn Web Development,https://developer.mozilla.org/en-US/docs/Learn,Beginner,2
+Web Development,Documentation,MDN Web Docs,https://developer.mozilla.org/,Beginner,2
+Web Development,Practice,freeCodeCamp,https://www.freecodecamp.org/learn/,Beginner,2
+Web Development,Project,Personal Portfolio Website,https://developer.mozilla.org/en-US/docs/Learn,Beginner,4
+Mobile App Development,Video,Android Developers Training,https://developer.android.com/courses,Beginner,2
+Mobile App Development,Documentation,Android Developers,https://developer.android.com/docs,Beginner,2
+Mobile App Development,Practice,Android Codelabs,https://developer.android.com/courses/pathways,Beginner,2
+Mobile App Development,Project,Simple Student App,https://developer.android.com/courses,Beginner,4
+Database Engineering,Video,SQL Tutorial,https://www.w3schools.com/sql/,Beginner,2
+Database Engineering,Documentation,PostgreSQL Documentation,https://www.postgresql.org/docs/,Beginner,2
+Database Engineering,Practice,SQLBolt,https://sqlbolt.com/,Beginner,2
+Database Engineering,Project,Student Database System,https://www.postgresql.org/docs/,Beginner,4
+DevOps Engineering,Video,Introduction to DevOps,https://www.coursera.org/learn/devops-culture-and-mindset,Beginner,2
+DevOps Engineering,Documentation,Docker Documentation,https://docs.docker.com/get-started/,Beginner,2
+DevOps Engineering,Practice,GitHub Skills,https://skills.github.com/,Beginner,2
+DevOps Engineering,Project,Containerized Streamlit App,https://docs.docker.com/get-started/,Beginner,4
+UI/UX Design,Video,Google UX Design,https://www.coursera.org/professional-certificates/google-ux-design,Beginner,2
+UI/UX Design,Tutorial,Figma Learn,https://help.figma.com/hc/en-us/categories/360002051613,Beginner,2
+UI/UX Design,Practice,Interaction Design Foundation,https://www.interaction-design.org/,Beginner,2
+UI/UX Design,Project,College App Prototype,https://help.figma.com/,Beginner,4
+Business Intelligence,Video,Microsoft Power BI Learning,https://learn.microsoft.com/en-us/training/powerplatform/power-bi/,Beginner,2
+Business Intelligence,Documentation,Power BI Documentation,https://learn.microsoft.com/en-us/power-bi/,Beginner,2
+Business Intelligence,Practice,Microsoft Learn Power BI,https://learn.microsoft.com/en-us/training/powerplatform/power-bi/,Beginner,2
+Business Intelligence,Project,College Performance Dashboard,https://learn.microsoft.com/en-us/power-bi/,Beginner,4
